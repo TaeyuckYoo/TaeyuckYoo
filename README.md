@@ -4,4 +4,4 @@
 - pytorch, django, java를 배우고 있습니다.
 
 
-`email` : `rhyou93@gmailcom`
+- `email` : `rhyou93@gmailcom`
